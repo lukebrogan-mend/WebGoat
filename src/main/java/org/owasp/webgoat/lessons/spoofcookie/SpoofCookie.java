@@ -37,7 +37,7 @@ public class SpoofCookie extends Lesson {
 
   @Override
   public Category getDefaultCategory() {
-    return Category.A1;
+    return Category.A0;
   }
 
   @Override
